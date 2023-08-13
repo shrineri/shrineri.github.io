@@ -21,7 +21,7 @@ author: Early Career Professional Working Group
 
 navbar-links:
   About ECPWG: "aboutme"
-  About Fair Worker's Comp: "about"
+  About Fair Worker's Comp: "_posts/about"
   Resources:
     - Position Statement: "https://drive.google.com/file/d/1kl7EuCGnmzYNutBhY-EYq_obXCQxojbC/view?usp=sharing"
     - Resolution: "https://drive.google.com/file/d/10OdBm73WoKTBZXuhrDbPiw5AL-FK7S-G/view?usp=sharing"
